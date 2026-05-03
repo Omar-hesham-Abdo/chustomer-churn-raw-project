@@ -58,5 +58,4 @@ jupyter notebook
 
 ## 👤 Author
 
-Your Name
-
+Omar Hesham
