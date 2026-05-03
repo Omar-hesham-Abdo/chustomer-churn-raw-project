@@ -58,10 +58,12 @@ jupyter notebook
 
 <img width="580" height="432" alt="88a71bed-169a-406e-9900-2a506d49edbf" src="https://github.com/user-attachments/assets/1e8d0131-3f83-4690-82e4-c407614e14a0" />
 
+---
 
 ## confusion matrix
 <img width="507" height="432" alt="6812bfcf-66c6-4387-98ba-caf2f3ec4732" src="https://github.com/user-attachments/assets/eac7ddcc-b414-435b-ac07-7590372e05ba" />
 
+---
 
 ## classification report
 <img width="441" height="245" alt="image" src="https://github.com/user-attachments/assets/dea1ae8b-fe9b-4aec-b88b-f3e4c148e180" />
