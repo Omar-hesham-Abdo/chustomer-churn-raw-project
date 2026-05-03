@@ -1,3 +1,4 @@
+<img width="507" height="432" alt="6812bfcf-66c6-4387-98ba-caf2f3ec4732" src="https://github.com/user-attachments/assets/eac7ddcc-b414-435b-ac07-7590372e05ba" />
 # 📊 Customer Churn Prediction
 
 ## 📌 Overview
